@@ -57,7 +57,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 If you have any questions or suggestions, please feel free to reach out to us:
 
-- Email: kpirabaharan3@gmail.com
-- LinkedIn: [https://linkedin.com/in/kpirabaharan/](https://linkedin.com/in/kpirabaharan/)
+- Email: akashnigam0001@gmai.com
+
 
 ---
